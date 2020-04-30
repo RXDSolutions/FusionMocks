@@ -3,6 +3,7 @@
 
 using System;
 using System.Collections;
+using sophis.instrument;
 using sophis.misc;
 using sophis.portfolio;
 

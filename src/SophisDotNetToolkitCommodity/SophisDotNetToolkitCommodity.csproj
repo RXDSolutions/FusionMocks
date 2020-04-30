@@ -27,6 +27,7 @@
     <ProjectReference Include="..\Sophis.Core.Data\Sophis.Core.Data.csproj" />
     <ProjectReference Include="..\Sophis.Event.Core\Sophis.Event.Core.csproj" />
     <ProjectReference Include="..\Sophis.Event.Risque\Sophis.Event.Risque.csproj" />
+    <ProjectReference Include="..\SophisDotNetToolkit\SophisDotNetToolkit.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

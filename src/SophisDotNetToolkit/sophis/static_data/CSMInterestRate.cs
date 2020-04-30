@@ -2,10 +2,11 @@
 //  FusionLink is licensed under the MIT license. See LICENSE.txt for details.
 
 using System;
+using sophis.instrument;
 
 namespace sophis.static_data
 {
-    public class CSMInterestRate : IDisposable
+    public class CSMInterestRate : CSMInstrument
     {
         public void Dispose()
         {

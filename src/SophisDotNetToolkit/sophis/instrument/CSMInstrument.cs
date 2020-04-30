@@ -7,6 +7,7 @@ using sophis.utils;
 
 namespace sophis.instrument
 {
+
     public class CSMInstrument : IDisposable
     {
         public static CSMInstrument GetInstance(int instrument_id)
